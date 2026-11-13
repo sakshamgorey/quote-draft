@@ -1,0 +1,71 @@
+{
+    "pagination": {"totalResults": 4, "begin": 1, "end": 4, "currentPage": 1, "totalPages": 1, "perPage": 100},
+    "results": [
+        {
+            "uid": "258",
+            "sku": "BA-AHD-12-12",
+            "brand": "Cendrex",
+            "availability": "available",
+            "popularity": "26945",
+            "ga_unique_purchases": "31",
+            "rating": "4.8846154",
+            "ratingCount": "390",
+            "name": "12&amp;quot; x 12&amp;quot; Flush Universal Access Door with Exposed Flange",
+            "url": "https://www.bestaccessdoors.com/12-x-12-flush-universal-access-door-with-exposed-flange/",
+            "imageUrl": "https://cdn11.bigcommerce.com/s-73d62/images/stencil/129x170/products/258/1/door.jpg",
+            "width": "16",
+            "height": "16",
+            "categories_hierarchy": [
+                "Products",
+                "Products&gt;Access Doors &amp; Panels",
+                "Products&gt;Access Doors &amp; Panels&gt;Material&gt;Steel",
+                "Products&gt;Access Doors &amp; Panels&gt;Application&gt;Ceiling &amp; Attic",
+                "Products&gt;Access Doors &amp; Panels&gt;Application&gt;Drywall",
+                "Products&gt;Access Doors &amp; Panels&gt;Model Number&gt;BA-AHD"
+            ]
+        },
+        {
+            "uid": "900",
+            "sku": "BA-ADWT-PC-12-12",
+            "availability": "disabled",
+            "name": "12&quot; x 12&quot; Airtight / Watertight Access Door - Prime Coated",
+            "url": "https://www.bestaccessdoors.com/airtight-12-x-12/",
+            "imageUrl": "https://cdn11.bigcommerce.com/s-73d62/images/stencil/129x170/products/900/1/a.jpg",
+            "width": "16",
+            "height": "16",
+            "categories_hierarchy": [
+                "Products&gt;Access Doors &amp; Panels",
+                "Products&gt;Access Doors &amp; Panels&gt;Application&gt;Plaster&gt;Fire-Rated",
+                "Products&gt;Access Doors &amp; Panels&gt;Material&gt;Galvannealed Steel and Steel"
+            ]
+        },
+        {
+            "uid": "1200",
+            "sku": "BA-FD-300-36-36",
+            "name": "36&quot; x 36&quot; Aluminum Floor Door - 300 PSF",
+            "url": "https://www.bestaccessdoors.com/floor-door-36/",
+            "imageUrl": "https://cdn11.bigcommerce.com/s-73d62/images/stencil/129x170/products/1200/1/f.jpg",
+            "width": "40",
+            "height": "40",
+            "categories_hierarchy": [
+                "Products&gt;Roof &amp; Floor Hatches",
+                "Products&gt;Roof &amp; Floor Hatches&gt;Application&gt;Floor",
+                "Products&gt;Access Doors &amp; Panels"
+            ]
+        },
+        {
+            "uid": "1500",
+            "sku": "BA-LST-22.5-31.5",
+            "name": "22½&quot; x 31½&quot; Insulated Scissor Attic Ladder - 350 lbs. Load Capacity",
+            "url": "https://www.bestaccessdoors.com/scissor-ladder/",
+            "imageUrl": "https://cdn11.bigcommerce.com/s-73d62/images/stencil/129x170/products/1500/1/l.jpg",
+            "width": "26.5",
+            "height": "35.5",
+            "categories_hierarchy": [
+                "Products&gt;Skylights",
+                "Products&gt;Ladders",
+                "Products&gt;Ladders&gt;Application&gt;Attic"
+            ]
+        }
+    ]
+}
